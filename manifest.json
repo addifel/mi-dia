@@ -2,13 +2,13 @@
   "name": "Mi Día — Sistema de tiempo",
   "short_name": "Mi Día",
   "description": "Seguimiento diario de bloques y horas",
-  "start_url": "https://addifel.github.io/mi-dia/",
-  "scope": "https://addifel.github.io/mi-dia/",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#0e0e0e",
   "theme_color": "#0e0e0e",
   "orientation": "portrait",
   "icons": [
-    { "src": "https://addifel.github.io/mi-dia/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
